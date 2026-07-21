@@ -1,1 +1,0 @@
-# Proyecto-Sismo_html
